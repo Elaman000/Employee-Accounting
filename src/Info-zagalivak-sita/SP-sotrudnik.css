@@ -1,0 +1,39 @@
+
+.conteiner-spisok{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    color: #e6b806;
+}
+.name-sotrudnik{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.mani-sotrudnik{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bagraund{
+    color: wheat;
+}
+.incris{
+    color: #000000;
+}
+.fa-trash{
+    cursor: default;
+}
+.inpNumber{
+    border: none;
+    outline: none;
+    font-size: 24px;
+}

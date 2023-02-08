@@ -1,0 +1,10 @@
+.conteiner{
+    margin: auto;
+    width: 80%;
+    height: auto;
+    padding: 20px;
+    background-color: cornflowerblue;
+    border-radius: 1em;
+    box-shadow: 15px 15px 30px black;
+    margin-top: 20px;
+}
