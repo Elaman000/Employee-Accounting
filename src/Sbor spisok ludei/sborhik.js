@@ -1,5 +1,6 @@
 import Spisok from '../Info-zagalivak-sita/SpisokSatridnik'
 const SpisokLudei = ({data,onDelete,vallue, onToggleProp})=>{
+
     const elemets = data.map(item =>{
         const {id, ...itemProps} = item;
         return(
